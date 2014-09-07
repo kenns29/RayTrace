@@ -1,0 +1,34 @@
+﻿Build started 12/3/2013 6:36:00 PM.
+     1>Project "D:\My Documents\kenns\Documents\Schoolwork\Graduate\CSE598-Computer Graphic\Assignment4\RayTrace\RayTrace\RayTrace.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\RayTrace.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         d:\Program\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt starter.cpp
+         starter.cpp
+     1>d:\my documents\kenns\documents\schoolwork\graduate\cse598-computer graphic\assignment4\raytrace\raytrace\scene.h(421): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 d:\program\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>d:\my documents\kenns\documents\schoolwork\graduate\cse598-computer graphic\assignment4\raytrace\raytrace\scene.h(434): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 d:\program\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>d:\my documents\kenns\documents\schoolwork\graduate\cse598-computer graphic\assignment4\raytrace\raytrace\scene.h(470): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 d:\program\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>d:\my documents\kenns\documents\schoolwork\graduate\cse598-computer graphic\assignment4\raytrace\raytrace\scene.h(513): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 d:\program\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>d:\my documents\kenns\documents\schoolwork\graduate\cse598-computer graphic\assignment4\raytrace\raytrace\raytrace.h(149): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\my documents\kenns\documents\schoolwork\graduate\cse598-computer graphic\assignment4\raytrace\raytrace\raytrace.h(162): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\my documents\kenns\documents\schoolwork\graduate\cse598-computer graphic\assignment4\raytrace\raytrace\raytrace.h(167): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         d:\Program\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\My Documents\kenns\Documents\Schoolwork\Graduate\CSE598-Computer Graphic\Assignment4\RayTrace\Debug\RayTrace.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\RayTrace.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\My Documents\kenns\Documents\Schoolwork\Graduate\CSE598-Computer Graphic\Assignment4\RayTrace\Debug\RayTrace.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\My Documents\kenns\Documents\Schoolwork\Graduate\CSE598-Computer Graphic\Assignment4\RayTrace\Debug\RayTrace.lib" /MACHINE:X86 Debug\3ds.obj
+         Debug\starter.obj
+         Debug\xmlParser.obj
+         LINK : D:\My Documents\kenns\Documents\Schoolwork\Graduate\CSE598-Computer Graphic\Assignment4\RayTrace\Debug\RayTrace.exe not found or not built by the last incremental link; performing full link
+         RayTrace.vcxproj -> D:\My Documents\kenns\Documents\Schoolwork\Graduate\CSE598-Computer Graphic\Assignment4\RayTrace\Debug\RayTrace.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\My Documents\kenns\Documents\Schoolwork\Graduate\CSE598-Computer Graphic\Assignment4\RayTrace\Debug\RayTrace.exe;#1" /manifest Debug\RayTrace.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\RayTrace.unsuccessfulbuild".
+         Touching "Debug\RayTrace.lastbuildstate".
+     1>Done Building Project "D:\My Documents\kenns\Documents\Schoolwork\Graduate\CSE598-Computer Graphic\Assignment4\RayTrace\RayTrace\RayTrace.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.75

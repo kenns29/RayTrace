@@ -1,0 +1,14 @@
+There are two scenes in the program, one with 1 light and one with 2 lights.
+
+All objects in the scenes are reflective, with the two mirror spheres near the snow man to be completely reflective.
+
+All rays leave the scene are colored light blue which is the background color
+
+some spots on the ground are blue because the color of the sphere is reflected on the plane.
+
+The glass sphere is place at the left side of the scene.
+
+The camera isn't changed.
+--------
+minor bugs:
+bug fixed.
